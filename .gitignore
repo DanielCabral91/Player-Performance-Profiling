@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Never commit private/raw internship data
+data/private/
+data/raw/
+private/
+raw/
+*.xlsx
+*.xlsm
