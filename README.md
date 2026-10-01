@@ -142,5 +142,8 @@ See [`docs/profiling_methodology.md`](docs/profiling_methodology.md) for the det
 
 This repository is a public portfolio reconstruction of a structured player-observation workflow developed during a youth-football internship. The public version prioritises privacy, reproducibility, auditability and conservative interpretation.
 
-
 Generated synthetic data and visual outputs are rebuilt by the repository workflow after source changes.
+
+## License and reuse
+
+No open-source license is granted for this repository at this time. The source code, documentation and synthetic demonstration assets are published for portfolio, educational and review purposes. Unless a separate license is added later, reuse, redistribution or derivative works require permission from the repository owner. Third-party libraries and dependencies retain their own licenses.
